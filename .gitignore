@@ -1,0 +1,9 @@
+# Log files
+limit_log.txt
+
+# Junk directory
+:USERPROFILE/
+
+# System files
+Thumbs.db
+Desktop.ini

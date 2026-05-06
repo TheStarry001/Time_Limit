@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "name": "三角洲行动",
+      "exe": "delta_force_launcher.exe",
+      "path": "E:\\Delta Force\\launcher\\delta_force_launcher.exe",
+      "schedule": [
+        { "repeat": "daily", "start": "20:00", "end": "5:00", "speed_kbps": 50 }
+      ]
+    }
+  ]
+}
